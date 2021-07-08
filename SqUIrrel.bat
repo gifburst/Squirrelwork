@@ -4,5 +4,25 @@ color F1
 cls
 
 :menu
-echo ÉÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ»
-º
+echo ÉÍÍÍÍÍÍÍÍÍÍÍÍSqUIrrel LauncherÍÍÍÍÍÍÍÍÍÍÍÍÍÍ»
+echo º                                           º
+echo º                                           º
+echo º                                           º
+echo º                                           º
+echo º                                           º
+echo º                                           º
+echo º                                           º
+echo º                                           º
+echo º                                           º
+echo º                                           º
+echo º                                           º
+echo º                                           º
+echo º                                           º
+echo º                                           º
+echo º                                           º
+echo º                                           º
+echo º                                           º
+echo º                                           º
+echo º                                           º
+echo º                                           º
+echo ÈÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ¼
