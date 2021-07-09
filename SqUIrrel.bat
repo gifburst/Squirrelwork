@@ -4,7 +4,11 @@ color F1
 cls
 
 :menu
+cls
 echo ÉÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍSqUIrrel ManagerÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ»
+echo º                                                º
+echo º        Welcome Please select an option         º
+echo º                                                º
 echo º                                                º
 echo º 1. Edit                                        º
 echo º 2. Terminal                                    º
@@ -14,11 +18,31 @@ echo º 5. Settings                                    º
 echo º                                                º
 echo ÈÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ¼
 echo.
-set /p udefine= Type your input:
-if %udefine%==1 goto about
-if %udefine%==2 goto APP
-if %udefine%==3 goto HELP
-if %udefine%==4 goto up
+set /p udefine= :
+if %udefine%==1 goto ed
+if %udefine%==2 goto ter
+if %udefine%==3 goto num
+if %udefine%==4 goto fun
 if %udefine%==5 goto set
 
-
+:ed
+cls
+echo ÉÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍSqUIrrel ManagerÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ»
+echo º                                                º
+echo º        Welcome Please select an option         º
+echo º                                                º
+echo º                                                º
+echo º 1. Edit           ]                             º
+echo º 2. Terminal       ]                            º
+echo º 3. Numbers                                     º
+echo º 4. Fun                                         º
+echo º 5. Settings                                    º
+echo º                                                º
+echo ÈÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ¼
+echo.
+set /p udefine= :
+if %udefine%==1 goto ed
+if %udefine%==2 goto ter
+if %udefine%==3 goto num
+if %udefine%==4 goto fun
+if %udefine%==5 goto set
