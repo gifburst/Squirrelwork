@@ -4,25 +4,12 @@ color F1
 cls
 
 :menu
-echo ÉÍÍÍÍÍÍÍÍÍÍÍÍSqUIrrel LauncherÍÍÍÍÍÍÍÍÍÍÍÍÍÍ»
-echo º          1 Welcome 2 Help                 º
+echo ÉÍÍÍÍÍÍÍÍÍÍÍÍÍSqUIrrel ManagerÍÍÍÍÍÍÍÍÍÍÍÍÍÍ»
 echo º                                           º
-echo º                 Apps                      º
-echo º                                           º
-echo º                                           º
-echo º                                           º
-echo º                                           º
-echo º                                           º
-echo º                                           º
-echo º                                           º
-echo º                                           º
-echo º                                           º
-echo º                                           º
-echo º                                           º
-echo º                                           º
-echo º                                           º
-echo º                                           º
-echo º                                           º
-echo º                                           º
+echo º 1.                                        º
+echo º 2.                                        º
+echo º 3.                                        º
+echo º 4.                                        º
+echo º 5.                                        º
 echo º                                           º
 echo ÈÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ¼
